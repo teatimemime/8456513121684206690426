@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "984465317163",
+    "project_id": "godev1-40576",
+    "storage_bucket": "godev1-40576.appspot.com"
+  },
+"client_info": {
+        "mobilesdk_app_id": "1:984465317163:android:aea013db456985272af96e",
+        "android_client_info": {
+          "package_name": "com.personalloan.fastcashloanguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984465317163-l9rdnut31qhvl6lmdnh46u7ug2ifqpji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ4snN89Y-xZ5XQeeM0t3TgO7y-_zYG9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984465317163-l9rdnut31qhvl6lmdnh46u7ug2ifqpji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      
+  "configuration_version": "1"
+}
